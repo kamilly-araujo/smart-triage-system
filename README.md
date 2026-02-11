@@ -34,7 +34,7 @@ Projeto desenvolvido em grupo pela equipe:
 * **Pandas** (Manipulação de Dados)
 * **SQLite** (Banco de Dados Relacional)
 * **Power BI** (Dashboard e Business Intelligence)
-* **Streamlit** (Interface Web do Totem)
+* **Streamlit** (Interface Web do Totem) -> [https://genhealthtech.streamlit.app/]
 
 ---
 
