@@ -57,7 +57,7 @@ Certifique-se de ter o [Python](https://www.python.org/) e o [Git](https://git-s
 
 ```bash
 # Clone este repositório
-git clone https://github.com/seu-usuario/smart-triage-system.git
+git clone [https://github.com/kamilly-araujo/smart-triage-system.git]
 cd smart-triage-system
 ```
 
