@@ -11,9 +11,9 @@ O objetivo é garantir que casos graves sejam priorizados, eliminando falhas man
 
 ## 👥 Desenvolvedores
 Projeto desenvolvido em grupo pela equipe:
-* **Kamilly da Silva Araujo** (Engenharia de Dados & Documentação)
-* **Batista Dala Catumba** (Desenvolvimento Back-End & Lógica)
-* **Marina Pocheca Matos** (Análise de Negócios & Visualização de Dados)
+* **Kamilly da Silva Araujo** (Power BI, Dashboard, Documentação e Publicação no GitHub)
+* **Batista Dala Catumba** (Python, Lógica de Classificação e Integração com SQLite)
+* **Marina Pocheca Matos** (Apresentação Final e Comunicação dos Resultados)
 
 ---
 
